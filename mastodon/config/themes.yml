@@ -3,3 +3,4 @@ contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
 tangerineui: styles/tangerineui.scss
 tangerineui-purple: styles/tangerineui-purple.scss
+tangerineui-pink: styles/tangerineui-pink.scss
